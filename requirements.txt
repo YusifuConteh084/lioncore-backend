@@ -1,0 +1,15 @@
+flask>=3.0.0
+PyJWT>=2.7.0
+python-dotenv>=1.0.0
+
+# Optional — uncomment for production PostgreSQL
+# psycopg2-binary>=2.9.0
+
+# Optional — for sending real emails
+# flask-mail>=0.10.0
+
+# Optional — for rate limiting
+# flask-limiter>=3.5.0
+
+# Optional — for production WSGI server
+# gunicorn>=21.0.0
